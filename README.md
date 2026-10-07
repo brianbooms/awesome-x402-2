@@ -39,6 +39,7 @@ Projects offering pay-per-call APIs via x402.
 
 | Name | Description | Endpoints | Settlement | Status |
 |------|-------------|-----------|------------|--------|
+| [AA Signals](https://github.com/CRYPDRYP/aa-signals) | Real-time crypto/Bittensor-subnet trading signals (action, confidence, composite score, regime) scored live against Kraken market data. 8 symbols: BTC, ETH, TAO, QNT, ZEC, DOGE, DOG, VVV. | 8 | USDC (Base) | ✅ Live |
 | [AsterPay](https://asterpay.io) | EUR settlement layer for AI agent commerce. Market data, sentiment, DeFi analytics, whale tracking, and more. | 13 | EUR (SEPA Instant) | ✅ Live |
 | [CDAS](https://x402.org/ecosystem) | Crypto Data Analytics Service | - | USDC | ✅ Live |
 | [JMT x402 Agent Tools](https://jmt-x402-proxy.jmthomasofficial.workers.dev) | 25 paid endpoints: web search, AI analysis, crypto data, SEC filings, company intel, news briefing, sentiment, macro dashboard. USDC on Base. | 25 | USDC (Base) | ✅ Live |
